@@ -1,6 +1,5 @@
 <template>
     <div>
-        1111
-        <xflButton/>
+        {{$route.params}}
     </div>
 </template>
